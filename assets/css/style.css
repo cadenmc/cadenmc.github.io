@@ -135,7 +135,7 @@ a {
     position: relative;
     height: 30px;
     width: 30px;
-    left: 800px;
+    left: 300px;
 }
 
 .linkedin-logo img {
@@ -148,7 +148,7 @@ a {
     position: relative;
     height: 30px;
     width: 30px;
-    left: 820px;
+    left: 320px;
 }
 
 .facebook-logo img {
@@ -161,7 +161,7 @@ a {
     position: relative;
     height: 30px;
     width: 30px;
-    left: 840px;
+    left: 340px;
 }
 
 .instagram-logo img {
@@ -1152,7 +1152,7 @@ a:hover {
     display: flex;
     position: relative;
     left: 280px;
-    top: 100px;
+    top: 60px;
 }
 
 .superb-column-1 {
@@ -1175,7 +1175,7 @@ a:hover {
     display: flex;
     position: relative;
     left: 1020px;
-    top: 205px;
+    top: 165px;
 }
 
 .superb-column-2 {
